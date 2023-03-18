@@ -1,2 +1,3 @@
 # A-t-score-null-hypothesis-calculator
 A t-score null hypothesis calculator uses the t-distribution to determine if the difference between two groups of data
+A t-score null hypothesis calculator is a statistical tool that helps researchers determine whether the difference between two groups of data is statistically significant when the sample size is small. It calculates the t-score, which represents the number of standard errors the observed difference is from what would be expected if the null hypothesis were true. The calculator then compares this t-score to critical values to determine if the null hypothesis can be rejected or accepted.
